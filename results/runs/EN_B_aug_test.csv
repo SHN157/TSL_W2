@@ -1,0 +1,235 @@
+clip_id,ref_en,hyp_en,ref_th,hyp_th,thai_chars_in_en
+b2_A_01_0012,What are the visiting hours?,I need a doctor's appointment.,เยี่ยมคนไข้ได้ช่วงไหนบ้าง,ฉันขอฉุกเฉินวันที่สองได้ไหม,False
+b2_A_01_0023,Do you accept walk-in patients (first timers)?,Is there a hospital emergency room?,คุณรับคนไข้ที่มาโดยไม่นัดหมายหรือไม่,มีโรงพยาบาลที่เปิดให้บริการไหม,False
+b2_A_01_0032,Is this a private or government hospital?,Where is the nearest emergency room?,นี่คือโรงพยาบาลเอกชนหรือโรงพยาบาลรัฐ,รีสอร์ทที่ใกล้ที่สุดอยู่ที่ไหน,False
+b2_A_01_0036,The nurse will call you shortly.,Please stand next to the nurse.,พยาบาลจะเรียกคุณในไม่ช้า,กรุณาลงที่ห้องพัก,False
+b2_A_01_0047,What is the hospital's call line?,Can you meet me at the emergency room?,เบอร์โทรติดต่อโรงพยาบาลคืออะไร,มีห้องพักสำหรับผู้เข้ารับการแพทย์ไหม,False
+b2_A_01_0048,Are there any COVID-19 restrictions here?,Please report to the emergency room as soon as possible.,ที่นี่มีข้อปฏิบัติสำหรับผู้ป่วยโควิด-19อย่างไรบ้าง,กรุณาติดต่อที่ห้องพยาบาลก่อนเดินทาง,False
+b2_A_01_0055,Is there a lost and found office?,Where is the nearest emergency room?,มีจุดรับแจ้งของหายไหม,โรงพยาบาลที่ใกล้ที่สุดอยู่ที่ไหน,False
+b2_A_01_0086,Can I get a copy of the autopsy results?,Can I get a copy of the test results?,ฉันขอสำเนาผลการชันสูตรพลิกศพได้ไหม,ฉันขอสำเนาผลตรวจนี้ได้ไหม,False
+b2_A_01_0092,Where is the nearest market?,Where is the nearest toilet?,ตลาดที่ใกล้ที่สุดอยู่ที่ไหน,โรงพยาบาลที่ใกล้ที่สุดอยู่ที่ไหน,False
+b2_A_01_0093,Is there a patient financial assistance program?,Do you have a patient-specific treatment plan?,มีโครงการช่วยเหลือด้านการเงินสำหรับคนไข้ไหม,คุณมีแผนการรักษาสำหรับคนไข้ไหม,False
+b2_A_02_0005,Are you currently taking any medications?,Do you have a flu vaccine?,ตอนนี้คุณกำลังใช้ยาอะไรอยู่ไหม,คุณมีโปรแกรมสำหรับคนไข้ไหม,False
+b2_A_02_0022,Do you feel short of breath?,Do you feel any changes in your appetite?,คุณรู้สึกหายลำบากไหม,คุณมีอาการปวดหลังกินอาหารไหม,False
+b2_A_02_0026,Do you feel fatigued during the day?,Do you feel any discomfort in your joints?,คุณรู้สึกอ่อนเพลียในระหว่างวันไหม,คุณมีอาการปวดข้อไหม,False
+b2_A_02_0031,How would you rate your pain on a scale of 1 to 10?,Where is the nearest emergency room?,คุณให้คะแนนความเจ็บปวดของคุณเท่าไหร่ในระดับ 1 ถึง 10,โรงพยาบาลใกล้ที่สุดอยู่ที่ไหน,False
+b2_A_02_0039,Are you able to eat and drink normally?,Youll need to drink plenty of water.,คุณสามารถกินและดื่มนํ้าได้ตามปกติไหม,กินอาหารและดื่มน้ำให้เพียงพอทุกวัน,False
+b2_A_02_0052,Do you have any trouble sleeping?,Have you noticed any changes in your mood lately?,คุณมีปัญหาในการนอนหลับไหม,คุณเคยมีปัญหาเกี่ยวกับความรู้สึกผิดปกติไหม,False
+b2_A_02_0054,Do you feel any discomfort in your chest?,Do you feel any discomfort in your legs?,คุณรู้สึกแน่นหน้าอกหรือปวดหน้าอกไหม,คุณรู้สึกมีอาการปวดบริเวณข้อไหม,False
+b2_A_02_0074,Have you noticed any changes in your energy levels?,Do you feel any discomfort in your thighs?,ช่วงนี้รู้สึกอ่อนเพลียบ้างไหม,คุณรู้สึกมีอาการปวดบริเวณข้อไหม,False
+b2_A_02_0081,Do you have any trouble with your concentration?,Have you been feeling more restless lately?,คุณมีปัญหาเกี่ยวกับสมาธิไหม,คุณรู้สึกเครียดมากกว่าปกติไหม,False
+b2_A_02_0085,Have you noticed any changes in your skin color?,Do you have a flu shot?,สีผิวเปลี่ยนไปไหม,คุณมีแผนการรักษาสำหรับคนไข้ไหม,False
+b2_A_02_0100,You're overworking yourself,Im having trouble breathing.,คุณกำลังทำงานหนักเกินไป,ฉันกำลังเครียด,False
+b2_A_03_0042,Have you ever fainted before?,Have you been experiencing any muscle spasms lately?,คุณเคยเป็นลมมาก่อนไหม,คุณเคยมีอาการปวดหลังตั้งครรภ์ไหม,False
+b2_A_03_0046,He has asthma since childhood.,He has severe chest pain.,เขาเป็นโรคหอบหืดมาตั้งแต่เด็ก,เขามีอาการปวดลำไส้ในช่วงกลางคืน,False
+b2_A_03_0048,She had typhoid fever last year.,She had a stomach ulcer.,เธอเป็นไข้ไทฟอยด์เมื่อปีที่แล้ว,เขามีอาการปวดลำไส้ตั้งแต่เด็ก,False
+b2_A_03_0056,I was diagnosed with stomach ulcers in 2021.,He had a stroke last year.,ฉันได้รับการวินิจฉัยว่าเป็นแผลในกระเพาะอาหารในปี 2021,เขาเป็นโรคสะเก็ดเงินในช่วงปีที่ผ่านมา,False
+b2_A_03_0060,She has arthritis in both knees.,She had a blood clot in her liver.,เธอเป็นโรคข้ออักเสบทั้งสองเข่า,เขาได้รับการวินิจฉัยพบว่าเป็นมะเร็งไต,False
+b2_A_03_0068,Have you been diagnosed with any sleep disorders?,Have you ever been diagnosed with a liver disease?,เคยตรวจพบว่ามีความผิดปกติในการนอนหลับไหม,คุณเคยได้รับการวินิจฉัยว่ามีความผิดปกติทางกล้ามเนื้อไหม,False
+b2_A_03_0069,She has a liver condition managed with medication.,Do you have a history of diabetes?,เธอมีปัญหาเกี่ยวกับตับที่ควบคุมด้วยยา,เขาได้รับการวินิจฉัยเกี่ยวกับโรคไตไหม,False
+b2_A_03_0077,Have you been diagnosed with any kidney stones?,Have you had a history of diabetes?,เคยตรวจพบว่ามีนิ่วในไตไหม,คุณเคยได้รับการวินิจฉัยว่าเป็นโรคไตไหม,False
+b2_A_03_0086,I had high blood pressure during pregnancy.,He has been diagnosed with asthma.,ฉันมีความดันโลหิตสูงตอนตั้งครรภ์,เขาได้รับการวินิจฉัยเกี่ยวกับโรคไต,False
+b2_A_03_0088,Have you ever had a liver transplant?,Have you ever had a kidney infection?,คุณเคยปลูกถ่ายตับไหม,คุณเคยมีอาการปวดกล้ามเนื้อไหม,False
+b2_A_04_0005,The doctor will review your test results shortly.,You should avoid taking this medication regularly.,แพทย์จะดูผลตรวจของคุณในไม่ช้า,คุณควรหลีกเลี่ยงการกินยาในช่วงเวลานี้,False
+b2_A_04_0011,You have been diagnosed with hypertension.,The doctor has diagnosed you with pneumonia.,คุณได้รับการวินิจฉัยว่าเป็นความดันโลหิตสูง,การวินิจฉัยแสดงให้เห็นว่าคุณมีอาการปวดกล้ามเนื้อ,False
+b2_A_04_0013,The doctor has prescribed a new treatment plan.,Your doctor will evaluate your condition for a follow-up test.,แพทย์ได้สั่งแผนการรักษาใหม่ให้คุณแล้ว,การวินิจฉัยนี้จะทำให้คุณติดเชื้ออีกครั้ง,False
+b2_A_04_0020,We need to do some tests to determine the cause of your symptoms.,The doctor has determined that you need a blood transfusion to treat your infection.,เราต้องตรวจเพิ่มเติมเพื่อหาสาเหตุของอาการของคุณ,การวินิจฉัยทางการแพทย์ชี้ให้เห็นว่าคุณสามารถรักษาอาการติดเชื้อได้ทันที,False
+b2_A_04_0040,We have to treat this condition with a combination of medications.,The patient has been diagnosed with multiple sclerosis.,เราต้องรักษาภาวะนี้ด้วยยาหลายชนิดร่วมกัน,การวินิจฉัยทางโรคมะเร็งทำให้เกิดการติดเชื้อ,False
+b2_A_04_0041,The doctor has recommended surgery to treat this condition.,The doctor will evaluate your condition in two weeks.,แพทย์แนะนำให้ผ่าตัดเพื่อรักษาภาวะนี้,การรักษานี้จะส่งผลต่อการรักษาของคุณในอีกไม่กี่สัปดาห์,False
+b2_A_04_0062,The doctor has suggested a low-impact exercise routine.,This medication is for your headache.,แพทย์แนะนำให้ออกกำลังกายแบบเบาๆ,ยานี้จะช่วยลดอาการปวดของคุณ,False
+b2_A_04_0073,You will need to take this medication before bedtime.,Take this medicine for half a day.,คุณจะต้องกินยานี้ก่อนนอน,กินยานี้พร้อมอาหารกลางวัน,False
+b2_A_04_0078,Come back to the clinic in one week.,Youll need to take this medication for 10 days after the appointment.,กลับมาที่คลินิกในอีกหนึ่งสัปดาห์,คุณจะต้องกินยานี้ให้ครบภายในสัปดาห์ที่เหลือ,False
+b2_A_04_0087,Take this medicine after eating.,Take this medicine with breakfast.,กินยานี้หลังอาหาร,กินยานี้พร้อมอาหารเช้า,False
+b2_A_05_0002,The patient is in critical condition and needs urgent care.,We need to call the emergency room immediately.,คนไข้อยู่ในภาวะวิกฤตและต้องได้รับการดูแลอย่างเร่งด่วน,กรุณาตรวจคนไข้ให้ทันที,False
+b2_A_05_0005,Please check the patient's vital signs and report them to me.,"If the patient is in critical condition, call emergency services immediately.",ช่วยตรวจสัญญาณชีพคนไข้ แล้วแจ้งหมอ/พยาบาลด้วย,กรุณาจับตัวคนไข้ไว้หากเขารู้สึกไม่สบาย,False
+b2_A_05_0020,There's been a car accident; we need to assess the injuries immediately.,The patient needs immediate surgery.,เกิดอุบัติเหตุทางรถยนต์ เราต้องประเมินการบาดเจ็บทันที,คนไข้ต้องเข้าโรงพยาบาลทันที,False
+b2_A_05_0034,Keep the person warm and comfortable.,Do you have a history of asthma?,ให้คนไข้อบอุ่นและสบายตัว,เคยเป็นโรคสะเก็ดเงินไหม,False
+b2_A_05_0040,We need to stabilize the patient's condition before surgery.,The patient has a blood clot; administer a blood test.,เราต้องทำให้อาการคนไข้คงที่ก่อนผ่าตัด,คนไข้มีอาการบาดเจ็บทางหลอดเลือด ต้องผ่าตัดทันที,False
+b2_A_05_0052,Call emergency services and describe the situation clearly.,The patient has been diagnosed with a malignant tumor.,โทรเรียกหน่วยฉุกเฉินและอธิบายสถานการณ์ให้ชัดเจน,คนไข้ต้องได้รับการผ่าตัดเพื่อรักษาอาการบาดเจ็บ,False
+b2_A_05_0054,The patient is experiencing a severe migraine; administer pain relief.,The patient has a severe bruise; administer blood pressure relief immediately.,คนไข้มีอาการไมเกรนรุนแรง ให้ยาแก้ปวด,คนไข้มีอาการปวดอย่างรุนแรง ให้ผ่าตัดทันที,False
+b2_A_05_0063,"If poisoned, do not induce vomiting unless instructed.","If the patient has a swollen throat, stop breathing.",หากได้รับสารพิษ อย่าทำให้อาเจียนเว้นแต่จะได้รับคำแนะนำ,หากมีอาการบวม ให้อาบน้ำให้สะอาดและปิดปากให้เงียบ,False
+b2_A_05_0081,Look at me and blink if you understand.,Hold my hand if you need help.,มองมาที่ฉันและกะพริบตาหากคุณเข้าใจ,ยกมือขึ้นหากคุณต้องการช่วยฉัน,False
+b2_A_05_0088,Sit upright and breathe slowly.,Stretch your arm if you feel numb.,นั่งตัวตรงและหายใจช้าๆ,พับแขนของคุณหากไม่สบาย,False
+b2_A_06_0006,Is your skin itchy with rashes or bumps?,Are your fingernails or toes swollen?,ผิวของคุณคันมีผื่นหรือตุ่มไหม,มือหรือขาของคุณมีรอยแผลไหม,False
+b2_A_06_0026,Is your baby refusing to breastfeed or eat?,Do you have a swollen throat or sore throat?,ลูกน้อยของคุณปฏิเสธที่จะดูดนมหรือกินอาหารไหม,คุณมีอาการปวดหลังนอนไหม,False
+b2_A_06_0036,"Do you feel sad, worried, or scared often?",Do you feel like youre experiencing muscle spasms or swelling?,คุณรู้สึกเศร้า กังวล หรือกลัวบ่อยไหม,คุณรู้สึกมีอาการปวดหัวหรือปวดท้องไหม,False
+b2_A_06_0038,Do you have bad dreams or scary thoughts?,Do you have a sore throat or swollen throat?,คุณฝันร้ายหรือมีความคิดที่น่ากลัวไหม,คุณมีอาการปวดหัวหรือปวดท้องไหม,False
+b2_A_06_0058,Do you have a bitter taste in your mouth?,Do you have a sore throat?,มีอาการขมปากไหม,คุณรู้สึกหงุดหงิดไหม,False
+b2_A_06_0060,Do you feel pain in your lower back or sides?,Do you have a sore throat?,คุณปวดหลังส่วนล่างหรือปวดสีข้างไหม,คุณมีอาการปวดหลังไหม,False
+b2_A_06_0065,Do you feel like you’re spinning (vertigo)?,Do you have a sore throat?,คุณรู้สึกเหมือนบ้านหมุน (เวียนศีรษะ) ไหม,คุณมีอาการปวดหน้าหรือปากไหม,False
+b2_A_06_0067,Do you have a burning feeling when urinating?,Do you feel dizzy or numb in your chest?,คุณรู้สึกแสบร้อนเวลาปัสสาวะไหม,คุณมีอาการปวดหัวหรือปวดปากไหม,False
+b2_A_06_0069,Do you feel full quickly after small meals?,Do you have a swollen throat or sore throat?,คุณรู้สึกอิ่มเร็วแม้กินอาหารเพียงเล็กน้อยไหม,คุณมีอาการปวดหน้าหรือปากไหม,False
+b2_A_06_0071,Do you have a rash after using new soap?,Are your fingers swollen or sore?,คุณมีผื่นหลังใช้สบู่ชนิดใหม่ไหม,ริ้วเท้าของคุณมีอาการปวดหรือบวมไหม,False
+b2_A_07_0004,How long will it take to recover?,What are the symptoms of this condition if I have a history of heart disease?,ต้องใช้เวลานานแค่ไหนกว่าจะฟื้นตัว,อาการนี้จะเกิดขึ้นอย่างไรหากฉันมีอาการปวดลำไส้,False
+b2_A_07_0019,What should I do if the symptoms worsen?,How will this affect my ability to function properly?,ฉันควรทำอย่างไรหากอาการแย่ลง,ฉันควรทำอย่างไรหากรู้สึกไม่สบาย,False
+b2_A_07_0036,Can I continue breastfeeding while on this medication?,Can I take this medication if I have a history of alcoholism?,ฉันสามารถให้นมบุตร(ลูก)ต่อไปได้ไหมขณะกินยานี้,ฉันสามารถกินยานี้ได้ไหมหากมีประวัติแพทย์,False
+b2_A_07_0046,Should I get tested for anything else?,Do I need to make a follow-up appointment?,ฉันควรตรวจอย่างอื่นเพิ่มเติมไหม,ฉันควรทำการตรวจอีกครั้งไหม,False
+b2_A_07_0048,Are there any support groups I can join?,Can I do this while Im on medication?,มีกลุ่มสนับสนุนที่ฉันสามารถเข้าร่วมได้ไหม,ฉันสามารถผ่อนคลายร่างกายได้ไหมหากเลิกกินยา,False
+b2_A_07_0065,Can I take this medication if I have other health conditions?,What can I do if I have a history of diabetes?,ฉันสามารถกินยานี้ได้ไหมหากมีโรคประจำตัวอื่น,ฉันควรกินยานี้อย่างไรหากมีประวัติติดเชื้อ,False
+b2_A_07_0072,What are the risks of this medication for older adults?,How can I stay healthy after this procedure?,ยานี้มีความเสี่ยงอย่างไรสำหรับผู้สูงอายุ,ฉันควรทำอย่างไรหากอาการนี้ไม่ดีต่อสุขภาพของฉัน,False
+b2_A_07_0075,What are the risks of this treatment for someone with diabetes?,What are the risks of this treatment for someone with a history of alcoholism?,การรักษานี้มีความเสี่ยงอย่างไรสำหรับผู้ที่เป็นเบาหวาน,การรักษานี้มีความเสี่ยงอย่างไรสำหรับผู้ที่มีประวัติแพ้อาหาร,False
+b2_A_07_0083,Can I take this medication if I have a history of stroke?,Can I take this medication if I have a history of high blood pressure?,ฉันสามารถกินยานี้ได้ไหมหากมีประวัติโรคหลอดเลือดสมอง,การรักษานี้สามารถใช้ได้ไหมสำหรับผู้ที่มีประวัติโรคไต,False
+b2_A_07_0084,What are the risks of this treatment for someone with a history of cancer?,What are the risks of this treatment for someone with a history of alcoholism?,การรักษานี้มีความเสี่ยงอย่างไรสำหรับผู้ที่มีประวัติมะเร็ง,การรักษานี้มีความเสี่ยงอย่างไรสำหรับผู้ที่มีประวัติแพ้อาหาร,False
+b2_A_08_0001,Can I help with your billing questions?,Can I get your insurance card?,มีข้อสงสัยเกี่ยวกับค่าบริการ สอบถามได้เลยนะคะ/ครับ,ใบประกันของคุณมีอยู่ตรงไหน,False
+b2_A_08_0010,Confirm your name and address for our records.,Well fill out your insurance form.,กรุณายืนยันชื่อและที่อยู่ของคุณเพื่อบันทึกข้อมูล,กรุณาแจ้งเบอร์ประกันของคุณก่อนชำระเงิน,False
+b2_A_08_0019,"Pay online, by phone, or in person.",Your insurance coverage will cover your expenses.,ชำระเงินออนไลน์ ทางโทรศัพท์ หรือด้วยตนเอง,คุณสามารถชำระค่าประกันของคุณได้ทันที,False
+b2_A_08_0029,Pay now or later in installments.,Your insurance policy will cover your bills.,ชำระตอนนี้หรือแบ่งชำระในภายหลัง,กรุณาชำระค่าประกันให้ครบภายใน 2 วัน,False
+b2_A_08_0035,Confirm appointment details before paying.,Your insurance coverage is limited to a certain amount.,ยืนยันรายละเอียดการนัดหมายก่อนชำระเงิน,กรุณาชำระค่าประกันของคุณก่อนการจ่ายเงิน,False
+b2_A_08_0046,Review your charges for accuracy.,Well cover your insurance premiums.,ตรวจสอบค่าใช้จ่ายของคุณเพื่อความถูกต้อง,การชำระเงินของคุณจะครอบคลุมทุกประเภท,False
+b2_A_08_0049,Update us if your insurance changes.,Please check your insurance coverage before applying.,แจ้งให้เราทราบหากประกันของคุณเปลี่ยนแปลง,กรุณาแจ้งเบิกประกันของคุณก่อนการชำระเงิน,False
+b2_A_08_0056,Pre-approval is needed for this treatment.,Payment is subject to review.,การรักษานี้ต้องได้รับการอนุมัติล่วงหน้า,ค่าใช้จ่ายสำหรับการรักษา,False
+b2_A_08_0088,We’ll explain your insurance restrictions.,Well explain your insurance coverage.,เราจะอธิบายข้อจำกัดของประกันคุณ,เราจะอธิบายรายการประกันของคุณก่อนการชำระเงิน,False
+b2_A_08_0097,Pay a co-pay for X-rays or scans.,What are the follow-up tests for this condition?,ชำระค่าร่วมจ่ายสำหรับเอกซเรย์หรือการสแกน,มีข้อสงสัยอะไรเกี่ยวกับการตรวจไข้,False
+b2_A_09_0017,"Store this medication in a cool, dry place.",Take this medicine with a glass of water.,เก็บยานี้ในที่เย็นและแห้ง,กินยานี้พร้อมอาหารเช้า,False
+b2_A_09_0041,An antiviral has been prescribed for your symptoms.,Your doctor has prescribed an anti-diabetic supplement.,มีการสั่งยาต้านไวรัสสำหรับอาการของคุณ,ฉันได้รับใบแนะนำสำหรับการรักษาอาการของคุณ,False
+b2_A_09_0055,This prescription is for thyroid medication.,The doctor has prescribed a pain relief medication.,ยานี้สำหรับยารักษาต่อมไทรอยด์,แพทย์ให้ยาแก้อาการปวดของคุณ,False
+b2_A_09_0056,Take with food to avoid nausea.,Take with food to prevent stomach upset.,กินพร้อมอาหารเพื่อป้องกันอาการคลื่นไส้,กินพร้อมอาหารเพื่อป้องกันอาการปวดลำไส้,False
+b2_A_09_0070,Take this with a snack to avoid dizziness.,Take with food to prevent stomach upset.,กินพร้อมของว่างเพื่อป้องกันอาการเวียนหัว,กินพร้อมอาหารเพื่อป้องกันอาการปวดท้อง,False
+b2_A_09_0076,Take with food to prevent nausea.,Drink with plenty of water to prevent stomach upset.,กินพร้อมอาหารเพื่อป้องกันอาการคลื่นไส้,ดื่มพร้อมอาหารเพื่อป้องกันอาการปวดลำไส้,False
+b2_A_09_0094,Take with a snack to avoid dizziness.,Drink plenty of water to prevent stomach upset.,กินพร้อมของว่างเพื่อป้องกันอาการเวียนหัว,กินพร้อมอาหารให้หมดเพื่อป้องกันการระคายอาหาร,False
+b2_A_09_0096,Take with food to prevent nausea.,Drink plenty of water to prevent stomach upset.,กินพร้อมอาหารเพื่อป้องกันอาการคลื่นไส้,กินพร้อมอาหารเพื่อป้องกันอาการปวดลำไส้,False
+b2_A_10_0001,What do you usually eat in a day?,Try to breathe slowly.,ปกติแล้วคุณกินอะไรในหนึ่งวัน,หลีกเลี่ยงการดื่มมากเกินไป,False
+b2_A_10_0023,How often do you eat fish?,Do you drink regularly?,คุณกินปลาบ่อยแค่ไหน,คุณกินอาหารบ่อยแค่ไหน,False
+b2_A_10_0024,Do you avoid salty foods?,Do you drink alcohol frequently?,คุณหลีกเลี่ยงอาหารเค็มไหม,คุณกินอาหารบ่อยไหม,False
+b2_A_11_0002,Are you planning to travel soon?,Do you feel like youre able to maintain a healthy self-esteem?,คุณวางแผนจะเดินทางเร็วๆ นี้ไหม,คุณรู้สึกว่าสามารถปรับปรุงความรู้สึกได้บ้างไหม,False
+b2_A_11_0003,It’s important to pack a health kit before your trip.,Stay alert for any health issues that may arise.,ควรเตรียมชุดยาสามัญที่จำเป็นติดตัวไว้ก่อนออกเดินทาง,กรุณาเตรียมแผนการอำนวยความสะดวกเพื่อป้องกันการติดเชื้อในสถานการณ์ที่เหมาะสม,False
+b2_A_11_0016,Check if you’ll have access to healthcare at your travel destination.,Do you feel like youre able to manage stressful situations while traveling?,ตรวจสอบว่าคุณจะเข้าถึงบริการสุขภาพได้ที่จุดหมายปลายทางของคุณไหม,คุณมีความมั่นใจไหมว่าสามารถพิจารณาเรื่องสถานการณ์ทางสุขภาพของเพื่อนบ้านของคุณได้,False
+b2_A_12_0001,Have you been feeling emotional lately?,Do you feel like youre not feeling well?,ช่วงนี้คุณรู้สึกอ่อนไหวทางอารมณ์ไหม,คุณรู้สึกไม่มั่นใจมากกว่าปกติไหม,False
+b2_A_12_0006,Do you have a history of depression or anxiety?,Have you considered any anxiety disorders?,คุณมีประวัติเป็นโรคซึมเศร้าหรือวิตกกังวลไหม,คุณเคยพิจารณาว่ามีปัญหาทางจิตใจไหม,False
+b2_A_12_0009,Have you experienced any panic attacks?,Do you feel like youre not able to control your emotions?,คุณเคยมีอาการตื่นตระหนกไหม,คุณรู้สึกว่าสามารถควบคุมความวิตกกังวลได้บ้างไหม,False
+b2_A_12_0036,Do you feel like you’re not able to enjoy life?,Do you feel like youre not able to function properly?,คุณรู้สึกว่าไม่สามารถมีความสุขกับชีวิตได้ไหม,คุณรู้สึกว่าสามารถหลีกเลี่ยงได้บ้างไหม,False
+b2_A_12_0038,Do you feel like you’re not able to cope with stress?,Do you feel like youre able to manage negative emotions?,คุณรู้สึกว่าไม่สามารถรับมือกับความเครียดได้ไหม,คุณรู้สึกว่าสามารถจัดการความวิตกกังวลในชีวิตได้ไหม,False
+b2_A_12_0057,Do you exercise regularly to manage your mental health?,Have you tried any self-help exercises to improve your mood?,คุณออกกำลังกายอย่างสม่ำเสมอเพื่อดูแลสุขภาพจิตไหม,คุณเคยลองทำกิจกรรมเพื่อพัฒนาความสุขทางจิตใจไหม,False
+b2_A_12_0071,Do you feel like you’re getting the support you need from your healthcare team?,Do you feel like youre able to maintain a healthy sense of self-worth?,คุณรู้สึกว่าได้รับการสนับสนุนที่จำเป็นจากทีมดูแลสุขภาพของคุณไหม,คุณรู้สึกว่าสามารถปรับปรุงความรู้สึกได้บ้างไหม,False
+b2_A_12_0075,Do you feel like you’re able to communicate your needs effectively?,Do you feel like youre able to manage your anxiety?,คุณรู้สึกว่าสามารถสื่อสารความต้องการของตัวเองได้อย่างมีประสิทธิภาพไหม,คุณรู้สึกว่าสามารถหลีกเลี่ยงความวิตกกังวลในชีวิตตัวเองได้ไหม,False
+b2_A_12_0082,Have you tried any visualization techniques to manage stress?,"Do you check if you have food allergies, such as allergies or allergies?",คุณเคยลองเทคนิคการสร้างภาพในใจเพื่อจัดการความเครียดบ้างไหม,คุณกินอาหารที่มีวิตามินหรือสารอาหารเสริมไหม,False
+b2_A_12_0094,Have you tried any role-playing exercises to improve communication?,Have you considered seeking help for any mental health issues?,คุณเคยลองฝึกแสดงบทบาทสมมติเพื่อพัฒนาการสื่อสารบ้างไหม,คุณเคยพิจารณาขอความช่วยเหลือสำหรับปัญหาทางจิตใจไหม,False
+b2_A_12_0098,Have you tried any social skills training to improve your interactions?,Have you tried any fitness training to improve your health?,คุณเคยลองฝึกทักษะทางสังคมเพื่อพัฒนาการปฏิสัมพันธ์บ้างไหม,คุณเคยลองฝึกอุปกรณ์เสริมสร้างความสุขเพื่อพัฒนาสุขภาพตัวเองบ้างไหม,False
+b2_A_13_0002,Cover your mouth when coughing or sneezing.,Do not wash your hands with soap or water.,ปิดปากเมื่อไอหรือจาม,หลีกเลี่ยงการใช้น้ำจืดหรือน้ำผึ้งที่ไม่สะอาด,False
+b2_A_13_0004,Avoid close contact with sick people.,Please contact your doctor if there are any signs of infection.,หลีกเลี่ยงการสัมผัสใกล้ชิดกับผู้ที่ป่วย,กรุณาตรวจสอบหากมีผู้ติดเชื้อ,False
+b2_A_13_0012,Wash your hands before eating.,Avoid using dirty or dirty clothes.,ล้างมือก่อนกินอาหาร,หลีกเลี่ยงการใช้น้ำตาลที่สะอาดและสกปรก,False
+b2_A_13_0013,Do not share personal items like towels or toothbrushes.,Wash hands and feet cleanly to avoid contamination.,อย่าใช้ของใช้ส่วนตัวร่วมกัน เช่น ผ้าเช็ดตัวหรือแปรงสีฟัน,ทำความสะอาดมือและผิวเพื่อหลีกเลี่ยงการติดเชื้อ,False
+b2_A_13_0023,"If you have a fever, see a doctor immediately.",Stay away from contaminated areas if you feel sick.,หากคุณมีไข้ ให้ไปพบแพทย์ทันที,หลีกเลี่ยงการติดเชื้อในสถานที่ที่มีคนไข้,False
+b2_A_13_0043,Use clean water to wash wounds and prevent bacterial infections.,Maintain proper hygiene to prevent infections.,ใช้น้ำสะอาดล้างแผลเพื่อป้องกันการติดเชื้อแบคทีเรีย,ป้องกันการติดเชื้อเพื่อป้องกันการแพร่ระบาดของเชื้อโรค,False
+b2_A_13_0051,Prevent malaria by sleeping under a treated mosquito net.,Malaria infections prevent the spread of infectious diseases.,ป้องกันมาลาเรียโดยนอนใต้มุ้งที่ชุบยา,ป้องกันการติดเชื้อเชื้อไวรัสโควิด-19 เพื่อป้องกันการแพร่ระบาดของเชื้อโรค,False
+b2_A_13_0067,Avoid handling food when you have a cold or flu.,Avoid using dirty or dirty dishes to clean your food.,หลีกเลี่ยงการจับต้องอาหารเมื่อคุณเป็นหวัดหรือไข้หวัดใหญ่,หลีกเลี่ยงการใช้น้ำจืดและน้ำผึ้งที่สะอาด,False
+b2_A_13_0069,Community cooperation helps prevent disease outbreaks.,Maintain proper hygiene to prevent infections.,ความร่วมมือของชุมชนช่วยป้องกันการระบาดของโรค,ป้องกันการติดเชื้อเพื่อป้องกันการแพร่ระบาดของโรค,False
+b2_A_14_0006,I need a refill for my prescription.,Can you give me a copy of the prescription?,ฉันต้องการเติมยาตามใบสั่ง,กรุณาขอสำเนายาตามใบสั่งของฉันได้ไหม,False
+b2_A_14_0014,Can you explain how to properly store this medication?,Can you give me a copy of this prescription?,คุณช่วยอธิบายวิธีเก็บรักษายานี้อย่างถูกต้องได้ไหม,คุณสามารถสั่งยานี้ตามใบสั่งของฉันได้ไหม,False
+b2_A_14_0028,Is this medication safe for someone with high blood pressure?,Can you tell me if there are any signs of an infection?,ยานี้ปลอดภัยสำหรับผู้ที่มีความดันโลหิตสูงไหม,คุณสามารถตรวจสอบว่ามีอาการติดเชื้อไหม,False
+b2_A_14_0029,When should I take this medicine after a meal?,Avoid eating whole foods.,ฉันควรกินยานี้เมื่อไหร่หลังอาหาร,หลีกเลี่ยงอาหารและเครื่องดื่มที่มีสารพิษ,False
+b2_B_01_0106,Is there any queit room?,Where can I call the doctor?,มีห้องเงียบไหม,ฉันสามารถเดินทางไปโรงพยาบาลได้อย่างไร,False
+b2_B_01_0115,Please take a seat and we will call you shortly.,Please report to the emergency room.,กรุณานั่งรอ เราจะเรียกคุณในไม่ช้า,กรุณาติดต่อที่สำนักงานตรวจสอบ,False
+b2_B_01_0117,Where is the nearest bookstore?,Where is the best place to drink?,ร้านหนังสือที่ใกล้ที่สุดอยู่ที่ไหน,ร้านอาหารไหนถูกเปิดให้บริการ,False
+b2_B_01_0118,Please take a seat for me to check your blood pressure.,Let's go to the bathroom.,เชิญนั่งเพื่อวัดความดัน,กรุณาลงที่ห้องน้ำ,False
+b2_B_01_0119,It's an emergency,Im going to need help.,เหตุฉุกเฉิน,กรุณารับการตรวจของคุณ,False
+b2_B_01_0137,Where is the suggestion box?,Where is the nearest pharmacy?,กล่องรับข้อเสนออยู่ที่ไหน,ร้านขายยาที่ใกล้ที่สุดอยู่ที่ไหน,False
+b2_B_01_0168,I am thirsty.,Where am I going to sleep?,ฉันหิวน้ำ,ฉันหายไปเมื่อไหร่,False
+b2_B_01_0169,I want to make a phone call,Can I go to the hospital?,ฉันต้องการโทรศัพท์,ฉันควรทำการตรวจไหม,False
+b2_B_01_0174,I am fraustrated,I'm hurting here.,ฉันรู้สึกหงุดหงิด,ฉันกำลังหงุดหงิด,False
+b2_B_01_0183,The doctor is not available at the moment,Let's go to the emergency room.,แพทย์ไม่ว่างในขณะนี้,กรุณาเข้าห้องพัก,False
+b2_B_02_0105,Have you noticed any changes in your vision?,Have you been experiencing any discomfort in your joints?,คุณรู้สึกว่าสายตามีความผิดปกติหรือเปลี่ยนแปลงไปไหม,คุณมีอาการปวดกล้ามเนื้อไหม,False
+b2_B_02_0107,Do you have any trouble with your speech?,How often do you drink alcohol?,คุณมีปัญหาเกี่ยวกับการพูดไหม,คุณดื่มน้ำบ่อยไหม,False
+b2_B_02_0113,I’m here to support you every step of the way during your recovery.,Well need to confirm your appointment.,ฉันอยู่ที่นี่เพื่อช่วยคุณตลอดการพักฟื้น,ฉันขอความเห็นจากผู้เชี่ยวชาญทางการแพทย์,False
+b2_B_02_0115,Have you been experiencing any unexplained weight loss?,Have you been feeling more relaxed than usual?,คุณเคยน้ำหนักลดลงโดยไม่ทราบสาเหตุไหม,คุณมีอารมณ์ในการทำงานมากกว่าปกติไหม,False
+b2_B_02_0132,Do you have any trouble with your teeth?,Do you have any regular visits?,คุณมีปัญหาเกี่ยวกับฟันไหม,คุณมีโอกาสในการผ่าตัดไหม,False
+b2_B_02_0133,Can you explain what this test is for?,How long will I need to stay in the hospital?,คุณช่วยอธิบายได้ไหมว่าการตรวจนี้มีไว้เพื่ออะไร,ฉันควรทำการตรวจร่างกายเมื่อไหร่,False
+b2_B_02_0147,Do you have any trouble with your temperature regulation?,Have you been experiencing any trouble with your joints lately?,คุณมีปัญหาเกี่ยวกับการอุณหภูมิร่างกายไหม,คุณมีอาการปวดกล้ามเนื้อไหม,False
+b2_B_02_0151,Do you have any trouble with your blood circulation?,Have you noticed any changes in your muscles?,คุณมีปัญหาเรื่องการไหลเวียนของเลือดบ้างไหม,คุณมีอาการปวดข้อไหม,False
+b2_B_02_0164,Take this painkiller if needed.,Do not forget to take your medication.,กินยาแก้ปวดนี้เมื่อจำเป็น,กรุณาพักผ่อนก่อนกินอาหาร,False
+b2_B_02_0199,Do you feel any discomfort in your ears?,Do you feel any discomfort in your legs?,คุณมีอาการปวดหูไหม,คุณรู้สึกมีอาการปวดข้อไหม,False
+b2_B_03_0110,Has he had food poisoning?,Have you ever had a blood clot?,เขาเคยอาหารเป็นพิษไหม,คุณเคยเป็นโรคสะเก็ดเลือดไหม,False
+b2_B_03_0118,Severe headaches occur weekly.,Headaches are painful and cause dizziness.,อาการปวดหัวรุนแรงเกิดขึ้นทุกสัปดาห์,โรคสะเก็ดเลือดจะช่วยลดอาการปวด,False
+b2_B_03_0123,Ear infections cause temporary hearing loss.,Headaches are painful and painful.,การติดเชื้อในหูทำให้สูญเสียการได้ยินชั่วคราว,อาการปวดลำไส้อักเสบเกิดขึ้นในช่วงกลางคืน,False
+b2_B_03_0135,Fibroids caused heavy menstrual bleeding.,Hepatitis caused by coughing and sneezing.,เนื้องอกในมดลูกทำให้ประจำเดือนมามาก,โรคมะเร็งทางไส้ทำให้มีอักเสบในกระเพาะเลือด,False
+b2_B_03_0144,Back pain is worse after sitting for long periods.,Headache is caused by coughing and wheezing.,อาการปวดหลังจะแย่ลงหลังจากนั่งเป็นเวลานาน,อาการปวดคอเกิดจากการผิวหนัง,False
+b2_B_03_0157,Have you ever had a shoulder surgery?,Do you have any joint disorders?,คุณเคยผ่าตัดไหล่ไหม,คุณเคยมีอาการปวดข้อไหม,False
+b2_B_03_0170,Have you been diagnosed with any bone infections?,Have you ever been diagnosed with a spinal cord injury?,คุณเคยได้รับการวินิจฉัยว่าติดเชื้อในกระดูกไหม,เคยได้รับการวินิจฉัยว่าเป็นโรคสะเก็ดเงินไหม,False
+b2_B_03_0179,Have you been diagnosed with any organ failure?,Have you ever had a bone marrow transplant?,คุณเคยได้รับการวินิจฉัยว่าอวัยวะล้มเหลวไหม,เคยได้รับการวินิจฉัยว่าเป็นมะเร็งคอไหม,False
+b2_B_03_0184,My poop is always solid,Keep your head down.,อุจจาระของฉันแข็งเสมอ,พยายามลดความเหนื่อยล้าของคุณ,False
+b2_B_03_0191,Do you have a history of bladder infections?,Have you ever had a bone marrow transplant?,เคยติดเชื้อในกระเพาะปัสสาวะไหม,คุณเคยได้รับการผ่าตัดข้อไหม,False
+b2_B_04_0111,Take this medicine with a piece of fruit.,Take this medicine with a glass of steamed bread.,กินยานี้พร้อมผลไม้สักชิ้น,กินยานี้พร้อมขนมปังเล็กๆ,False
+b2_B_04_0112,Avoid sitting for too long; move around.,Use clean cloths to clean your skin.,หลีกเลี่ยงการนั่งนานเกินไป ลุกขยับตัวบ้าง,ใช้ถุงน้ำที่สะอาดเพื่อลดความอึดอัด,False
+b2_B_04_0128,Eat more soups and stews for warmth.,Take with a snack to prevent stomach upset.,กินซุปและสตูว์ให้มากขึ้นเพื่อความอบอุ่น,กินพร้อมอาหารอร่อยเพื่อช่วยลดอาการปวดลำไส้,False
+b2_B_04_0131,Avoid too much cake or pastries.,Avoid too much fried cheese.,หลีกเลี่ยงเค้กหรือขนมอบมากเกินไป,หลีกเลี่ยงการกินขนมปังมากเกินไป,False
+b2_B_04_0137,Take this medicine with a small snack.,Take this medicine with a bowl of rice.,กินยานี้พร้อมของว่างเล็กๆ,กินยานี้พร้อมขนมปังเล็กๆ,False
+b2_B_04_0147,Take this medicine with a piece of fruit.,Take this medicine with a glass of water.,กินยานี้พร้อมผลไม้สักชิ้น,กินยานี้พร้อมน้ำตาลหนึ่งแก้ว,False
+b2_B_04_0163,Take deep breaths to help you relax.,Drink plenty of water to prevent dehydration.,หายใจเข้าลึกๆ เพื่อช่วยให้ผ่อนคลาย,ดื่มน้ำให้เยอะเพื่อป้องกันอาการบวม,False
+b2_B_04_0164,Avoid eating raw meat or fish.,Avoid too much fried cheese.,หลีกเลี่ยงการกินเนื้อหรือปลาดิบ,หลีกเลี่ยงการกินไส้อั่วมากเกินไป,False
+b2_B_04_0177,Avoid using too much salt in your cooking.,Avoid too much fried cheese.,หลีกเลี่ยงการใช้เกลือมากเกินไปในการปรุงอาหาร,หลีกเลี่ยงการกินพริกมากเกินไป,False
+b2_B_04_0184,Avoid using too much powder on your skin.,Avoid too much fried meat.,หลีกเลี่ยงการใช้แป้งมากเกินไปบนผิว,หลีกเลี่ยงการกินขนมปังมากเกินไป,False
+b2_B_05_0112,Close your eyes if the light hurts.,Stay calm and relax.,หลับตาหากแสงทำให้รู้สึกเจ็บ,หลีกเลี่ยงความรู้สึกอึดอัด,False
+b2_B_05_0113,Show me if you are bleeding.,Do you feel pain when you move?,แสดงให้ฉันดูหากคุณมีเลือดออก,คุณรู้สึกปวดหลังไหม,False
+b2_B_05_0116,Tap your leg if you can feel it.,Hold my hand if you can.,แตะขาของคุณหากรู้สึกได้,ยกมือขึ้นหากคุณรู้สึกไม่สบาย,False
+b2_B_05_0121,Tap your chest if it is hard to breathe.,Feel your chest if you feel pain.,แตะหน้าอกหากหายใจลำบาก,หากคุณรู้สึกอึดอัดบนข้อเท้าของคุณ,False
+b2_B_05_0138,Shake your head if you cannot move.,Stay calm and relax.,ส่ายหัวหากคุณขยับตัวไม่ได้,หลีกเลี่ยงการสะดวกสบาย,False
+b2_B_05_0156,"If your legs feel weak, sit down.",Hold my hand if you feel weak.,หากขาของคุณรู้สึกอ่อนแรง ให้นั่งลง,ยกมือขึ้นหากคุณรู้สึกไม่สบาย,False
+b2_B_05_0166,"If you cannot feel your legs, try wiggling your toes.",Hold your shoulder if you feel pain.,หากที่ขาคุณไม่มีรู้สึก ให้ลองขยับนิ้วเท้า,กดแขนของคุณหากคุณรู้สึกอึดอัด,False
+b2_B_05_0172,"If your heart is racing, hold your wrist and count.",Hold your head up if you need help.,หากหัวใจของคุณเต้นเร็ว ให้จับข้อมือและนับ,กดมือของคุณหากคุณรู้สึกไม่สบาย,False
+b2_B_05_0177,Can you point to the pain?,Where are your fingers?,คุณชี้จุดที่เจ็บได้ไหม,ขาของคุณอยู่ตรงไหน,False
+b2_B_05_0189,Do you feel pressure in your chest?,Do you feel any pain in your chest?,คุณรู้สึกแน่นที่หน้าอกไหม,คุณรู้สึกปวดขาไหม,False
+b2_B_06_0128,Paracetamol will reduce fever—take it every eight hours.,Take the pill with a drop of blood. Drink 1 tablespoon before taking the medicine again.,พาราเซตามอลจะช่วยลดไข้ กินทุกแปดชั่วโมง,กินยาบำบัดได้ครบครันครึ่งหนึ่งเม็ด ใส่น้ำตาลหนึ่งแก้ว ทันทีหลังกินยา,False
+b2_B_06_0133,Has the child completed their vaccination schedule?,Can I take any medications while Im out of the hospital?,เด็กได้รับวัคซีนครบตามกำหนดหรือยัง,ฉันสามารถออกกำลังกายได้อีกครั้งได้ไหมหลังเลิกยานี้,False
+b2_B_06_0136,Have you tested for typhoid if the fever continues?,Malaria seizures show signs of infection. Apply a disinfectant today.,คุณตรวจไข้ไทฟอยด์แล้วไหม หากยังมีไข้ต่อเนื่อง,โรคมะเร็งอักเสบส่งผลต่อการรักษาทุกรายการ,False
+b2_B_06_0139,Have you checked your blood sugar this morning?,How long will I need to stay in the hospital after surgery?,คุณตรวจน้ำตาลในเลือดเมื่อเช้านี้แล้วไหม,มีการผ่าตัดใดๆ ระหว่างการดำเนินการไหม,False
+b2_B_06_0143,Do you feel burning when urinating?,Do you feel stiffness in your legs?,คุณรู้สึกแสบร้อนเวลาปัสสาวะไหม,หัวของคุณมีอาการปวดหลังนอนไหม,False
+b2_B_06_0145,A chest X-ray will check for tuberculosis or pneumonia.,Your headache is sore from sweatingwash up and down.,การเอกซเรย์ทรวงอกจะช่วยตรวจหาวัณโรคหรือปอดบวม,อาการปวดหัวของคุณจะรุนแรง เมื่ออาบน้ำและลดน้ำตาล,False
+b2_B_06_0146,Reading glasses will help you see small print clearly.,Take this medicine once a day or twice a day.,แว่นสำหรับอ่านหนังสือจะช่วยให้คุณเห็นตัวอักษรเล็กชัดขึ้น,กินยานี้หนึ่งแก้วต่อหนึ่งมื้อหลังกินยา,False
+b2_B_06_0148,Warm compresses ease menstrual cramps—use a hot water bottle.,Your sore throat is from dirty laundrywash and soap.,การประคบอุ่นช่วยบรรเทาอาการปวดประจำเดือน ใช้กระเป๋าน้ำร้อน,อาการปวดขาของคุณเกิดจากแผลที่สะอาด ผ่อนคลายก่อนอาบน้ำ,False
+b2_B_06_0161,Are you stressed about money or family problems?,Have you been using antibiotics regularly or regularly?,คุณเครียดเรื่องเงินหรือปัญหาครอบครัวไหม,คุณเคยกินยาหรือยาที่ไม่ถูกสั่งไหม,False
+b2_B_06_0168,Use calamine lotion for itchy mosquito bites.,Malaria rashes begin with dry spots; rinse with soapy water.,ใช้โลชั่นคาลาไมน์สำหรับอาการคันจากยุงกัด,ไข้หวัดปัสสาวะลดลงด้วยน้ำแห้งล้างน้ำตาลและน้ำผึ้ง,False
+b2_B_06_0184,"Use aloe vera gel for dry, cracked skin.",Swollen joints should be cleaned with dirty cloths and soap.,ใช้เจลว่านหางจระเข้สำหรับผิวแห้งแตก,อาการปวดของแผลต้องถูกตัดด้วยผ้าห่มและแผลที่สะอาด,False
+b2_B_07_0112,How will this condition affect my ability to maintain a healthy work-life balance?,How will this condition affect my ability to function properly?,อาการนี้จะมีผลกับการรักษาสมดุลชีวิตและการทำงานของฉันไหม,มีปัญหาอะไรบ้างที่ทำให้ฉันไม่สามารถปรับปรุงการทำงานของฉันได้บ้างไหม,False
+b2_B_07_0122,Can I take this medication if I have a history of insomnia?,Can I take this medication if I have a history of dizziness?,ฉันสามารถกินยานี้ได้ไหมหากมีประวัตินอนไม่หลับ,ฉันสามารถกินยานี้ได้ไหมหากมีประวัติปวดลำไส้,False
+b2_B_07_0130,How soon can I resume normal activities after the surgery?,How will this condition affect my ability to function?,ฉันจะกลับมาทำกิจกรรมตามปกติได้เร็วแค่ไหนหลังการผ่าตัด,อาการนี้จะส่งผลต่อการรักษาของฉันอย่างไร,False
+b2_B_07_0132,What are the risks of this treatment for someone with a history of lactose intolerance?,Can I have a list of medications I need to take if Im out of the hospital?,การรักษานี้มีความเสี่ยงอย่างไรสำหรับผู้ที่แพ้แลคโตส,ฉันควรมียาพยาบาลหรือยาสำหรับคนไข้ที่ไม่ได้รับการรักษาไหม,False
+b2_B_07_0136,How will this condition affect my ability to maintain a healthy work-life balance?,Do you feel like youre not feeling well at all?,อาการนี้จะมีผลกับการรักษาสมดุลชีวิตและการทำงานของฉันไหม,คุณมีอาการหงุดหงิดในช่วงกลางคืนไหม,False
+b2_B_07_0141,What are the risks of this treatment for someone with a history of diabetes?,What are the possible side effects of this treatment?,การรักษานี้มีความเสี่ยงอย่างไรสำหรับผู้ที่เป็นเบาหวาน,การรักษานี้จะมีผลต่อการรักษาของฉันอย่างไร,False
+b2_B_07_0149,What are the chances of success with this treatment?,How will this condition affect my ability to function?,โอกาสความสำเร็จของการรักษานี้มีมากแค่ไหน,อาการนี้จะมีผลกับการรักษาของฉันไหม,False
+b2_B_07_0163,How will this condition affect my ability to maintain a healthy sleep schedule?,Are there any changes in my sleep patterns that affect my ability to sleep?,อาการนี้จะมีผลกับการรักษาตารางการนอนที่ดีของฉันไหม,อาการนี้ทำให้ฉันมีความเครียดมากกว่าปกติไหม,False
+b2_B_07_0168,Is it normal to feel nauseous after this treatment?,How will this condition affect my ability to function properly?,เป็นเรื่องปกติไหมที่จะรู้สึกคลื่นไส้หลังการรักษานี้,ฉันควรทำอย่างไรหากสถานการณ์นี้ทำให้ฉันผิดหวัง,False
+b2_B_07_0174,How soon should I contact you if something doesn’t feel right once I leave?,How will this condition affect my ability to sleep?,ฉันควรติดต่อคุณเร็วแค่ไหนหากรู้สึกไม่ปกติหลังจากออกจากโรงพยาบาลแล้ว,อาการนี้จะทำให้ฉันรู้สึกไม่สบายตอนออกกำลังกายไหม,False
+b2_B_07_0185,What should I expect during the procedure itself? Will I be awake?,How will this condition affect my ability to recover?,ฉันควรคาดหวังอะไรบ้างระหว่างหัตถการ ฉันจะรู้สึกตัวอยู่ไหม,การรักษานี้จะส่งผลต่อสุขภาพของฉันอย่างไร,False
+b2_B_07_0200,How long before I can return to school after the procedure?,What should I do if I feel like Im unable to return to my normal routine?,อีกนานแค่ไหนฉันถึงจะกลับไปโรงเรียนได้หลังหัตถการ,ฉันควรทำอย่างไรบ้างเพื่อให้ความรู้สึกดีขึ้นระหว่างการเดินทางของฉัน,False
+b2_B_09_0102,Take with a snack to avoid dizziness.,Take with food to prevent stomach upset.,กินพร้อมของว่างเพื่อป้องกันอาการเวียนหัว,กินพร้อมอาหารเพื่อป้องกันอาการปวดลำไส้,False
+b2_B_09_0108,Take with food to prevent nausea.,Take with food to prevent stomach upset.,กินพร้อมอาหารเพื่อป้องกันอาการคลื่นไส้,กินพร้อมอาหารเพื่อป้องกันอาการปวดท้อง,False
+b2_B_09_0121,This eye drop will help with your eye problem.,This is for your prescription.,ยาหยอดตานี้จะช่วยเรื่องปัญหาตาของคุณ,ยานี้ใช้สำหรับผิวหนังของคุณ,False
+b2_B_09_0131,This prescription will help relief your menstrual cramps.,This medicine is for pain relief.,ยานี้จะช่วยบรรเทาอาการปวดประจำเดือนของคุณ,ยานี้สำหรับอาการปวดหลังนอน,False
+b2_B_09_0138,Shake the bottle well before use.,Use a hand sanitizer to clean your hands.,เขย่าขวดให้เข้ากันก่อนใช้,ใช้กระดาษเพื่อลดความเหนื่อยล้าของคุณ,False
+b2_B_09_0141,Take one tablet every morning with food.,Take this medicine with a glass of water before eating.,กินยาเม็ดหนึ่งเม็ดทุกเช้าพร้อมอาหาร,กินยานี้พร้อมน้ำตาลหนึ่งแก้ว,False
+b2_B_09_0143,Take this medicine at the same time every day.,Do not take this medicine twice daily.,กินยานี้ในเวลาเดียวกันทุกวัน,กินยานี้ครั้งละสองครั้งต่อหนึ่งเม็ด,False
+b2_B_09_0154,"Keep this medicine in a cool, dry place.",Do not take this medication twice a day.,เก็บยานี้ในที่เย็นและแห้ง,หลีกเลี่ยงการกินยานี้ในช่วงหนึ่งชั่วโมง,False
+b2_B_09_0158,Dissolve the tablet in water before drinking.,Do not take this medicine twice a day.,ละลายยาเม็ดในน้ำก่อนดื่ม,กินยานี้อย่างละเอียดไม่เกิน 2 ชั่วโมง,False
+b2_B_09_0173,Apply this gel before bedtime for best results.,"If you forget to take this medication, take it at least once a day.",ทาเจลนี้ก่อนนอนเพื่อผลลัพธ์ที่ดีที่สุด,หากคุณลืมกินยานี้ในเวลาหนึ่งชั่วโมง อย่าดื่มยานี้ทันที,False
+b2_B_09_0175,Do not drink juice with this medicine.,Avoid this medication while taking it.,อย่าดื่มน้ำผลไม้พร้อมกับยานี้,หลีกเลี่ยงการกินยานี้ในระยะเวลาที่ไม่ถูกกำหนด,False
+b2_B_09_0192,Avoid standing up too quickly after taking this,Avoid this medication while taking it.,หลีกเลี่ยงการลุกขึ้นเร็วเกินไปหลังจากกินยานี้,หลีกเลี่ยงการกินยานี้ในเวลาที่ครบครบ,False
+b2_B_10_0029,Has your skin changed after changing what you eat?,Do you feel like youre able to maintain a healthy sense of humor?,ผิวของคุณเปลี่ยนแปลงหลังจากเปลี่ยนอาหารการกินไหม,คุณรู้สึกว่าสามารถจัดการความรู้สึกได้ดีไหม,False
+b2_B_10_0037,"Do you eat foods with zinc, like nuts or seeds?","Do you eat foods with calcium, like beans or vegetables?",คุณกินอาหารที่มีซิงค์ เช่น ถั่วหรือเมล็ดพืชไหม,คุณกินอาหารที่มีแคลเซียม เช่น นมหรือผลผลไม้ไหม,False
+b2_B_10_0047,Eating healthy fats helps your heart.,Do not take this medication after eating.,ไขมันดีมีประโยชน์ต่อสุขภาพหัวใจ,อย่ากินยานี้หลังกินครั้งแรก,False
+b2_B_11_0036,Make sure you know how to access healthcare in your destination country.,"If youre traveling abroad, make sure to report any medical emergencies.",ให้แน่ใจว่าคุณรู้วิธีเข้าถึงบริการสุขภาพในประเทศที่คุณจะไป,หากคุณต้องการความรู้เกี่ยวกับสถานการณ์ทางการแพทย์ ที่อาจเกิดขึ้นในช่วงการเดินทางของคุณ กรุณาเตรียมแผนการ,False
+b2_B_11_0038,Be mindful of time zone changes and how they may affect your sleep.,"If you feel overwhelmed, you may need to seek medical help if you feel unwell.",ควรระวังเรื่องการเปลี่ยนเขตเวลาและผลกระทบต่อการนอนหลับของคุณ,หากคุณมีความกังวลเกี่ยวกับสถานการณ์ทางสุขภาพคุณควรเตรียมตัวก่อนเดินทาง,False
+b2_B_11_0046,"If you're traveling for a long period, it’s important to stay active to avoid blood clots.",Keep the infected area clean and dry to prevent infections.,หากต้องเดินทางเป็นเวลานาน ควรขยับร่างกายเป็นระยะ เพื่อป้องกันการเกิดลิ่มเลือดอุดตัน,หลีกเลี่ยงการติดเชื้อในพื้นที่ที่สะอาดเพื่อป้องกันการแพร่ระบาดของเชื้อโรค,False
+b2_B_12_0111,Do you feel like you’re able to manage emotional eating?,Do you feel like youre able to manage feelings of anger?,คุณรู้สึกว่าสามารถจัดการการกินตามอารมณ์ได้ไหม,คุณรู้สึกว่าสามารถจัดการความรู้สึกโกรธได้ไหม,False
+b2_B_12_0112,Have you considered seeking help for any eating disorders?,Have you tried any trust-building exercises to improve your relationships?,คุณเคยพิจารณาขอความช่วยเหลือสำหรับความผิดปกติในการกินไหม,คุณเคยลองฝึกการสร้างความสัมพันธ์เพื่อพัฒนาความเข้าใจบ้างไหม,False
+b2_B_12_0120,Have you considered seeking help for any body dysmorphic disorder?,Have you considered seeking help for any self-doubt issues?,คุณเคยพิจารณาขอความช่วยเหลือสำหรับโรคความผิดปกติด้านภาพลักษณ์ร่างกายไหม,คุณเคยพิจารณาปรึกษาผู้เชี่ยวชาญเกี่ยวกับปัญหาอารมณ์หงุดหงิดไหม,False
+b2_B_12_0134,Have you tried any spiritual practices to improve your mental health?,Have you tried any self-awareness exercises to improve your self-esteem?,คุณเคยลองฝึกปฏิบัติทางจิตวิญญาณเพื่อพัฒนาสุขภาพจิตบ้างไหม,คุณเคยลองทำกิจกรรมเพื่อพัฒนาความรู้สึกสงบบ้างไหม,False
+b2_B_12_0145,Do you feel like you’re able to maintain a healthy sense of safety?,Do you feel like youre able to manage your anxiety?,คุณยังมีความรู้สึกปลอดภัยอยู่ไหม,คุณรู้สึกว่าสามารถปรับปรุงความรู้สึกได้บ้างไหม,False
+b2_B_12_0149,Do you feel like you’re able to maintain a healthy sense of trust?,Do you have a history of back pain?,คุณยังมีความไว้วางใจอยู่ไหม,คุณเคยมีอาการปวดลำไส้ไหม,False
+b2_B_12_0156,Have you considered seeking help for any control issues?,Have you considered seeking help for any addiction-related issues?,คุณเคยคิดจะปรึกษาเรื่องปัญหาการควบคุมอารมณ์บ้างไหม,คุณเคยพิจารณาขอความช่วยเหลือสำหรับผู้เชี่ยวชาญเกี่ยวกับปัญหาความแตกต่างทางอารมณ์ไหม,False
+b2_B_12_0159,Do you feel like you’re able to manage feelings of inadequacy?,Do you feel like youre able to manage feelings of loneliness?,คุณรู้สึกว่าสามารถจัดการความรู้สึกไม่เพียงพอได้ไหม,คุณรู้สึกว่าสามารถจัดการความรู้สึกอิจฉาได้ไหม,False
+b2_B_12_0160,Have you considered seeking help for any self-doubt issues?,Have you considered seeking help for any self-doubt issues?,คุณเคยคิดจะปรึกษาเรื่องความไม่มั่นใจในตัวเองบ้างไหม,คุณเคยคิดที่จะปรึกษาผู้เชี่ยวชาญเรื่องปัญหาความแตกต่างบ้างไหม,False
+b2_B_12_0167,Do you feel like you’re able to manage creative blocks?,Do you feel like youre able to manage feelings of anxiety?,คุณรู้สึกว่าสามารถจัดการภาวะความคิดสร้างสรรค์ติดขัดได้ไหม,คุณรู้สึกว่าสามารถจัดการความวิตกกังวลในชีวิตได้ไหม,False
+b2_B_12_0193,Do you feel like you’re able to maintain a healthy sense of forgiveness?,Do you feel like youre able to manage feelings of loneliness?,คุณยังมีความสามารถในการให้อภัยอยู่ไหม,คุณรู้สึกว่าสามารถจัดการความรู้สึกผิดหวังได้ไหม,False
+b2_B_13_0096,Take vitamins and eat fruits to strengthen the immune system.,Eat plenty of whole foods to help prevent food poisoning.,กินวิตามินและผลไม้เพื่อเสริมสร้างระบบภูมิคุ้มกัน,กินอาหารให้เพียงพอเพื่อป้องกันการติดเชื้อ,False
+b2_B_13_0119,Stay home if you feel sick to avoid spreading illness.,Avoid using hand sanitizers to prevent infections.,อยู่บ้านหากคุณรู้สึกไม่สบายเพื่อหลีกเลี่ยงการแพร่เชื้อ,หลีกเลี่ยงการผ่าตัดเพื่อป้องกันการแพร่ระบาดของเชื้อโรค,False
+b2_B_13_0140,Wear protective clothing when in areas with disease outbreaks.,Wear protective clothing to prevent infections.,สวมชุดป้องกันเมื่ออยู่ในพื้นที่ที่มีการระบาดของโรค,ป้องกันการติดเชื้อเพื่อป้องกันการแพร่ระบาดของโรค,False
+b2_B_13_0153,Do not take antibiotics without a doctor’s prescription.,Avoid using contaminated food and water.,อย่ากินยาปฏิชีวนะโดยไม่มีใบสั่งแพทย์,หลีกเลี่ยงการใช้อุปกรณ์ที่ใช้ในห้องน้ำหรือห้องน้ำ,False
+b2_B_13_0154,Cover your wounds with a clean bandage to prevent infections.,Keep dirty laundry clean to prevent infections.,ปิดแผลของคุณด้วยผ้าพันแผลที่สะอาดเพื่อป้องกันการติดเชื้อ,ปิดผ้าฝ่ามือให้สะอาดเพื่อป้องกันการแพร่กระจายของเชื้อโรค,False
+b2_B_13_0156,Practice safe food storage to avoid contamination.,Nutrient deficiencies reduce the risk of food poisoning.,ปฏิบัติตามหลักการเก็บอาหารที่ปลอดภัยเพื่อหลีกเลี่ยงการปนเปื้อน,กินอาหารที่สมบูรณ์เพื่อเพิ่มความแข็งแรงทางภูมิคุ้มกันของร่างกาย,False
+b2_B_13_0169,Ensure proper disposal of medical waste like needles and gloves.,Wash your hands regularly to avoid contamination.,ตรวจสอบให้แน่ใจว่ามีการกำจัดขยะทางการแพทย์อย่างถูกวิธี เช่น เข็มและถุงมือ,เก็บวัตถุดิบอาหารที่ใช้ได้อย่างสมบูรณ์และสะอาด,False
+b2_B_13_0174,Dispose of dead animals properly to prevent disease transmission.,Keep food clean and clean to prevent bacteria from spreading.,กำจัดซากสัตว์อย่างถูกวิธีเพื่อป้องกันการแพร่กระจายของโรค,ปรับปรุงอาหารให้สะอาดเพื่อป้องกันการแพร่กระจายของเชื้อโรค,False
+b2_B_13_0180,Wash your hands after handling raw meat or fish.,Do not wash your hands regularly.,ล้างมือหลังสัมผัสเนื้อดิบหรือปลา,ทำความสะอาดในห้องน้ำและห้องน้ำทุกวัน,False
+b2_B_14_0101,Finish this liquid medicine within 14 days after opening,Do not swallow more than one tablespoon of this medicine every day.,ใช้ยาน้ำนี้ให้หมดภายใน 14 วันหลังเปิดใช้,หลีกเลี่ยงการฉีดวัคซีนครั้งละ 1 ช้อนหรือ 2 ช้อน,False
+b2_B_14_0104,Is this medication safe for someone with a history of irritable bowel syndrome?,Make sure you have a comprehensive list of medications you may need to follow up with your doctor.,ยานี้ปลอดภัยสำหรับผู้ที่มีประวัติลำไส้แปรปรวนไหม,ให้แน่ใจว่าคุณมีแผนการแพทย์ที่เหมาะสำหรับการรักษาในกรณีที่ไม่เหมาะสม,False
+b2_B_14_0109,Can you provide me with something to treat my ringworm?,Have you considered seeking help for any anxiety disorders?,คุณมียารักษาโรคกลากของฉันไหม,คุณเคยพิจารณาขอความช่วยเหลือสำหรับปัญหาทางจิตใจไหม,False
+b2_B_14_0110,Keep this medicine out of direct sunlight and heat.,Do not take this medication alone.,เก็บยานี้ให้พ้นแสงแดดโดยตรงและความร้อน,หลีกเลี่ยงการกินยานี้ในช่วงเวลาที่ครบครบ,False

@@ -1,0 +1,9 @@
+set,sentences,tokens,unique words,avg times a word appears,words seen once %,words seen <5 times %,text covered by words seen >=5x %,words per sentence
+PHOENIX German (train),7096,99081,2887,34.3,37.3,60.9,97.1,14.0
+PHOENIX glosses (train),7096,56969,953,59.8,26.7,48.7,98.6,8.0
+"TSL English, medical (train)",1772,14448,2017,7.2,45.0,77.7,81.7,8.2
+"TSL Thai, all (train)",2577,29590,3403,8.7,43.6,73.0,86.0,11.5
+"TSL Thai, cooking (train)",805,15308,2167,7.1,47.2,76.5,82.3,19.0
+"TSL Thai, medical (train)",1772,14282,1916,7.5,44.5,75.2,83.1,8.1
+"PHOENIX German, 1772 sents",1772,24506,1669,14.7,39.6,64.7,92.7,13.8
+"PHOENIX German, 2577 sents",2577,35653,1958,18.2,39.8,63.3,94.3,13.8

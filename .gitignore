@@ -1,0 +1,26 @@
+# model weights and derived arrays
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+
+# media and features
+frames*/
+features*/
+*.mp4
+*.bag
+
+# environments and caches
+TSL/
+SONAR/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# backups and scratch
+*.bak*
+*~
+.DS_Store

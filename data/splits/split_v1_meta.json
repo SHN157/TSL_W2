@@ -1,0 +1,12 @@
+{
+  "seed": 42,
+  "ratios": [
+    0.8,
+    0.1,
+    0.09999999999999995
+  ],
+  "grouping": "identical text_th_final",
+  "strata": "batch|cat|station",
+  "filter": "include & text_ok",
+  "targets": "targets/sonar_th.npy (row column)"
+}

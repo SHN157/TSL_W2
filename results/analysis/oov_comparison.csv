@@ -1,0 +1,7 @@
+set,train vocabulary,test tokens,unseen tokens %,unseen distinct words,test sentences with >=1 unseen word %
+PHOENIX German,2887,7816,0.8,59,7.6
+PHOENIX glosses,953,4399,0.3,12,1.6
+TSL English (medical),2017,1967,5.6,103,35.9
+TSL Thai (all),3403,3758,5.0,178,36.2
+TSL Thai (cooking),2167,1851,8.3,141,71.8
+TSL Thai (medical),1916,1907,4.7,86,29.5

@@ -1,0 +1,12 @@
+nohup: ignoring input
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00, 52.44it/s]
+calibrated output scale: mean|z| 7.4595 -> mean|s| 0.1901
+trainable params: 87.24M | train 2654 dev 327 clips
+epoch 1 | step 42 | lr 7.5e-05 | sec 96 | train_loss 3.776 | train_mse 7.149e-05 | train_cos -0.00463 | train_ce 5.628 | dev_mse 6.794e-05 | dev_cos 0.002387 | dev_ce 5.082 | best 1
+epoch 2 | step 84 | lr 0.00015 | sec 84 | train_loss 3.438 | train_mse 6.64e-05 | train_cos 0.09566 | train_ce 5.314 | dev_mse 7.166e-05 | dev_cos 0.3543 | dev_ce 4.189 | best 1
+epoch 3 | step 126 | lr 0.000225 | sec 85 | train_loss 2.532 | train_mse 5.073e-05 | train_cos 0.3767 | train_ce 4.941 | dev_mse 4.544e-05 | dev_cos 0.4474 | dev_ce 4.089 | best 1
+epoch 4 | step 168 | lr 0.0003 | sec 84 | train_loss 2.299 | train_mse 4.123e-05 | train_cos 0.4348 | train_ce 4.846 | dev_mse 4.016e-05 | dev_cos 0.4714 | dev_ce 4.078 | best 1
+epoch 5 | step 210 | lr 0.0002999 | sec 84 | train_loss 2.227 | train_mse 3.7e-05 | train_cos 0.4502 | train_ce 4.834 | dev_mse 3.617e-05 | dev_cos 0.4797 | dev_ce 4.135 | best 1
+epoch 6 | step 252 | lr 0.0002995 | sec 84 | train_loss 2.176 | train_mse 3.388e-05 | train_cos 0.4606 | train_ce 4.825 | dev_mse 3.223e-05 | dev_cos 0.4854 | dev_ce 4.048 | best 1
+epoch 7 | step 294 | lr 0.0002988 | sec 84 | train_loss 2.13 | train_mse 3.138e-05 | train_cos 0.4709 | train_ce 4.816 | dev_mse 2.993e-05 | dev_cos 0.4953 | dev_ce 4.091 | best 1
+epoch 8 | step 336 | lr 0.000298 | sec 85 | train_loss 2.091 | train_mse 2.96e-05 | train_cos 0.4807 | train_ce 4.813 | dev_mse 2.913e-05 | dev_cos 0.4985 | dev_ce 3.934 | best 1

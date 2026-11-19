@@ -1,0 +1,5 @@
+scope,clips,usable,signing_hours,dur_mean_s,dur_min_s,dur_max_s,fps_min,fps_median,fps_max,source_frames,frames_at_30fps,frames_on_disk,spatial_features,motion_features,with_thai,without_thai,with_english,thai_len_mean,thai_len_max,signers
+batch1 (cooking),1053,1013,3.66,12.53,5.76,34.54,12.6,57.7,71.3,686845,395750,1053,0,0,1053,0,0,83.7,296,"dear, gig, guide, totak"
+batch2 (medical),2320,2320,5.75,8.93,3.73,22.7,60.0,120.0,120.0,2012786,621202,2320,2320,2320,2320,0,2320,36.9,91,"dear, gig, guide, toktak"
+combined,3373,3333,9.42,10.05,3.73,34.54,12.6,66.0,120.0,2699631,1016952,3373,2320,2320,3373,0,2320,51.5,296,"dear, gig, guide, toktak, totak"
+"combined, usable only",3333,3333,9.28,10.02,3.73,34.54,29.0,66.2,120.0,2692970,1002397,3333,2320,2320,3333,0,2320,51.3,296,"dear, gig, guide, toktak, totak"

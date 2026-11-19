@@ -1,0 +1,45 @@
+nohup: ignoring input
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00, 50.31it/s]
+loaded runs/A_v1/best.pt
+trainable params: 90.39M | train 2654 dev 327 clips
+epoch 1 | step 332 | lr 0.00015 | sec 119 | train_loss 8.136 | train_mse 2.436e-05 | train_cos 0.5771 | train_ce 4.094 | train_ae 2.73
+epoch 2 | step 664 | lr 0.0003 | sec 122 | train_loss 6.913 | train_mse 2.552e-05 | train_cos 0.5619 | train_ce 3.679 | train_ae 1.872 | dev_mse 2.807e-05 | dev_ce 3.158 | dev_cos 0.5359 | dev_ccos 0.3298 | dev_r1 0.0581 | dev_r5 0.2324 | dev_medr 19 | dev_chrf 8.758 | dev_bleu_char 3.997 | best 1
+epoch 3 | step 996 | lr 0.0002995 | sec 120 | train_loss 6.637 | train_mse 2.568e-05 | train_cos 0.5577 | train_ce 3.55 | train_ae 1.713
+epoch 4 | step 1328 | lr 0.000298 | sec 120 | train_loss 6.428 | train_mse 2.557e-05 | train_cos 0.5613 | train_ce 3.447 | train_ae 1.617 | dev_mse 2.74e-05 | dev_ce 2.986 | dev_cos 0.5413 | dev_ccos 0.3333 | dev_r1 0.06422 | dev_r5 0.2232 | dev_medr 20 | dev_chrf 11.15 | dev_bleu_char 6.393 | best 1
+epoch 5 | step 1660 | lr 0.0002954 | sec 121 | train_loss 6.297 | train_mse 2.541e-05 | train_cos 0.5655 | train_ce 3.374 | train_ae 1.572
+epoch 6 | step 1992 | lr 0.0002919 | sec 121 | train_loss 6.175 | train_mse 2.523e-05 | train_cos 0.5683 | train_ce 3.323 | train_ae 1.509 | dev_mse 2.727e-05 | dev_ce 2.915 | dev_cos 0.5483 | dev_ccos 0.3387 | dev_r1 0.06728 | dev_r5 0.2416 | dev_medr 18 | dev_chrf 12.79 | dev_bleu_char 8.561 | best 1
+epoch 7 | step 2324 | lr 0.0002874 | sec 122 | train_loss 6.099 | train_mse 2.521e-05 | train_cos 0.5689 | train_ce 3.273 | train_ae 1.486
+epoch 8 | step 2656 | lr 0.0002819 | sec 122 | train_loss 6.004 | train_mse 2.504e-05 | train_cos 0.5714 | train_ce 3.236 | train_ae 1.436 | dev_mse 2.741e-05 | dev_ce 2.863 | dev_cos 0.5509 | dev_ccos 0.3486 | dev_r1 0.07339 | dev_r5 0.263 | dev_medr 18 | dev_chrf 13.08 | dev_bleu_char 8.903 | best 1
+epoch 9 | step 2988 | lr 0.0002756 | sec 121 | train_loss 5.899 | train_mse 2.49e-05 | train_cos 0.5746 | train_ce 3.173 | train_ae 1.403
+epoch 10 | step 3320 | lr 0.0002684 | sec 122 | train_loss 5.85 | train_mse 2.48e-05 | train_cos 0.5766 | train_ce 3.153 | train_ae 1.38 | dev_mse 2.63e-05 | dev_ce 2.775 | dev_cos 0.5591 | dev_ccos 0.359 | dev_r1 0.09174 | dev_r5 0.2722 | dev_medr 16 | dev_chrf 12.41 | dev_bleu_char 8.541
+epoch 11 | step 3652 | lr 0.0002604 | sec 121 | train_loss 5.746 | train_mse 2.465e-05 | train_cos 0.5807 | train_ce 3.086 | train_ae 1.355
+epoch 12 | step 3984 | lr 0.0002516 | sec 122 | train_loss 5.705 | train_mse 2.452e-05 | train_cos 0.582 | train_ce 3.074 | train_ae 1.331 | dev_mse 2.632e-05 | dev_ce 2.747 | dev_cos 0.5587 | dev_ccos 0.3667 | dev_r1 0.08869 | dev_r5 0.3119 | dev_medr 12 | dev_chrf 12.93 | dev_bleu_char 7.888
+epoch 13 | step 4316 | lr 0.0002421 | sec 121 | train_loss 5.622 | train_mse 2.438e-05 | train_cos 0.5851 | train_ce 3.031 | train_ae 1.301
+epoch 14 | step 4648 | lr 0.000232 | sec 122 | train_loss 5.553 | train_mse 2.42e-05 | train_cos 0.5892 | train_ce 2.998 | train_ae 1.276 | dev_mse 2.667e-05 | dev_ce 2.748 | dev_cos 0.5558 | dev_ccos 0.37 | dev_r1 0.1009 | dev_r5 0.3272 | dev_medr 13 | dev_chrf 14.56 | dev_bleu_char 9.366 | best 1
+epoch 15 | step 4980 | lr 0.0002214 | sec 122 | train_loss 5.481 | train_mse 2.41e-05 | train_cos 0.5907 | train_ce 2.96 | train_ae 1.247
+epoch 16 | step 5312 | lr 0.0002103 | sec 122 | train_loss 5.434 | train_mse 2.393e-05 | train_cos 0.5941 | train_ce 2.928 | train_ae 1.242 | dev_mse 2.633e-05 | dev_ce 2.708 | dev_cos 0.5585 | dev_ccos 0.3713 | dev_r1 0.09174 | dev_r5 0.3394 | dev_medr 12 | dev_chrf 12.01 | dev_bleu_char 6.651
+epoch 17 | step 5644 | lr 0.0001987 | sec 121 | train_loss 5.375 | train_mse 2.376e-05 | train_cos 0.5974 | train_ce 2.897 | train_ae 1.225
+epoch 18 | step 5976 | lr 0.0001868 | sec 121 | train_loss 5.302 | train_mse 2.371e-05 | train_cos 0.5997 | train_ce 2.856 | train_ae 1.199 | dev_mse 2.676e-05 | dev_ce 2.711 | dev_cos 0.5528 | dev_ccos 0.3659 | dev_r1 0.09786 | dev_r5 0.3456 | dev_medr 11 | dev_chrf 14.12 | dev_bleu_char 8.996
+epoch 19 | step 6308 | lr 0.0001747 | sec 122 | train_loss 5.26 | train_mse 2.358e-05 | train_cos 0.6033 | train_ce 2.836 | train_ae 1.188
+epoch 20 | step 6640 | lr 0.0001624 | sec 121 | train_loss 5.187 | train_mse 2.344e-05 | train_cos 0.6055 | train_ce 2.8 | train_ae 1.158 | dev_mse 2.683e-05 | dev_ce 2.717 | dev_cos 0.5601 | dev_ccos 0.3775 | dev_r1 0.1254 | dev_r5 0.3303 | dev_medr 10 | dev_chrf 14.38 | dev_bleu_char 9.081
+epoch 21 | step 6972 | lr 0.00015 | sec 121 | train_loss 5.16 | train_mse 2.33e-05 | train_cos 0.609 | train_ce 2.78 | train_ae 1.162
+epoch 22 | step 7304 | lr 0.0001376 | sec 122 | train_loss 5.098 | train_mse 2.326e-05 | train_cos 0.6117 | train_ce 2.753 | train_ae 1.134 | dev_mse 2.688e-05 | dev_ce 2.677 | dev_cos 0.5639 | dev_ccos 0.3847 | dev_r1 0.1284 | dev_r5 0.3853 | dev_medr 8 | dev_chrf 15.69 | dev_bleu_char 10.75 | best 1
+epoch 23 | step 7636 | lr 0.0001253 | sec 120 | train_loss 5.053 | train_mse 2.313e-05 | train_cos 0.6144 | train_ce 2.734 | train_ae 1.117
+epoch 24 | step 7968 | lr 0.0001132 | sec 121 | train_loss 5.017 | train_mse 2.309e-05 | train_cos 0.6169 | train_ce 2.706 | train_ae 1.115 | dev_mse 2.706e-05 | dev_ce 2.685 | dev_cos 0.5619 | dev_ccos 0.3815 | dev_r1 0.1223 | dev_r5 0.3761 | dev_medr 9 | dev_chrf 14.25 | dev_bleu_char 8.465
+epoch 25 | step 8300 | lr 0.0001013 | sec 121 | train_loss 4.965 | train_mse 2.289e-05 | train_cos 0.62 | train_ce 2.677 | train_ae 1.102
+epoch 26 | step 8632 | lr 8.975e-05 | sec 121 | train_loss 4.924 | train_mse 2.284e-05 | train_cos 0.6217 | train_ce 2.65 | train_ae 1.092 | dev_mse 2.711e-05 | dev_ce 2.685 | dev_cos 0.5619 | dev_ccos 0.3837 | dev_r1 0.104 | dev_r5 0.3976 | dev_medr 9 | dev_chrf 16.14 | dev_bleu_char 11.33 | best 1
+epoch 27 | step 8964 | lr 7.861e-05 | sec 120 | train_loss 4.889 | train_mse 2.281e-05 | train_cos 0.6239 | train_ce 2.625 | train_ae 1.089
+epoch 28 | step 9296 | lr 6.796e-05 | sec 121 | train_loss 4.868 | train_mse 2.267e-05 | train_cos 0.626 | train_ce 2.613 | train_ae 1.087 | dev_mse 2.749e-05 | dev_ce 2.706 | dev_cos 0.5602 | dev_ccos 0.3839 | dev_r1 0.1223 | dev_r5 0.37 | dev_medr 9 | dev_chrf 16.55 | dev_bleu_char 11.27 | best 1
+epoch 29 | step 9628 | lr 5.787e-05 | sec 121 | train_loss 4.82 | train_mse 2.262e-05 | train_cos 0.6281 | train_ce 2.59 | train_ae 1.068
+epoch 30 | step 9960 | lr 4.841e-05 | sec 120 | train_loss 4.791 | train_mse 2.252e-05 | train_cos 0.6303 | train_ce 2.57 | train_ae 1.065 | dev_mse 2.74e-05 | dev_ce 2.715 | dev_cos 0.5579 | dev_ccos 0.3806 | dev_r1 0.1315 | dev_r5 0.3761 | dev_medr 9 | dev_chrf 16.24 | dev_bleu_char 10.84
+epoch 31 | step 10292 | lr 3.964e-05 | sec 121 | train_loss 4.761 | train_mse 2.251e-05 | train_cos 0.6312 | train_ce 2.546 | train_ae 1.061
+epoch 32 | step 10624 | lr 3.163e-05 | sec 120 | train_loss 4.741 | train_mse 2.245e-05 | train_cos 0.6325 | train_ce 2.54 | train_ae 1.052 | dev_mse 2.782e-05 | dev_ce 2.712 | dev_cos 0.5577 | dev_ccos 0.3818 | dev_r1 0.1407 | dev_r5 0.3914 | dev_medr 8 | dev_chrf 16.71 | dev_bleu_char 11.96 | best 1
+epoch 33 | step 10956 | lr 2.443e-05 | sec 121 | train_loss 4.728 | train_mse 2.243e-05 | train_cos 0.6341 | train_ce 2.534 | train_ae 1.049
+epoch 34 | step 11288 | lr 1.808e-05 | sec 121 | train_loss 4.709 | train_mse 2.235e-05 | train_cos 0.6352 | train_ce 2.52 | train_ae 1.047 | dev_mse 2.801e-05 | dev_ce 2.725 | dev_cos 0.5556 | dev_ccos 0.3797 | dev_r1 0.1284 | dev_r5 0.3976 | dev_medr 9 | dev_chrf 16.2 | dev_bleu_char 11.38
+epoch 35 | step 11620 | lr 1.263e-05 | sec 121 | train_loss 4.696 | train_mse 2.237e-05 | train_cos 0.6358 | train_ce 2.514 | train_ae 1.042
+epoch 36 | step 11952 | lr 8.127e-06 | sec 121 | train_loss 4.69 | train_mse 2.234e-05 | train_cos 0.6365 | train_ce 2.504 | train_ae 1.048 | dev_mse 2.798e-05 | dev_ce 2.729 | dev_cos 0.5562 | dev_ccos 0.3815 | dev_r1 0.1498 | dev_r5 0.4006 | dev_medr 8 | dev_chrf 16.72 | dev_bleu_char 11.7 | best 1
+epoch 37 | step 12284 | lr 4.59e-06 | sec 121 | train_loss 4.699 | train_mse 2.23e-05 | train_cos 0.6372 | train_ce 2.513 | train_ae 1.05
+epoch 38 | step 12616 | lr 2.046e-06 | sec 121 | train_loss 4.691 | train_mse 2.229e-05 | train_cos 0.6375 | train_ce 2.502 | train_ae 1.054 | dev_mse 2.803e-05 | dev_ce 2.728 | dev_cos 0.5554 | dev_ccos 0.3806 | dev_r1 0.1407 | dev_r5 0.4098 | dev_medr 8 | dev_chrf 16.7 | dev_bleu_char 11.69
+epoch 39 | step 12948 | lr 5.123e-07 | sec 121 | train_loss 4.672 | train_mse 2.23e-05 | train_cos 0.6375 | train_ce 2.495 | train_ae 1.042
+epoch 40 | step 13280 | lr 0 | sec 121 | train_loss 4.689 | train_mse 2.228e-05 | train_cos 0.6377 | train_ce 2.498 | train_ae 1.057 | dev_mse 2.806e-05 | dev_ce 2.727 | dev_cos 0.5557 | dev_ccos 0.3819 | dev_r1 0.1498 | dev_r5 0.419 | dev_medr 8 | dev_chrf 16.84 | dev_bleu_char 11.62 | best 1
+best dev chrf = 16.8443
